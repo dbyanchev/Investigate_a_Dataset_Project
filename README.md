@@ -4,7 +4,7 @@ This is my 2nd project from the Udacity Nanodegree Program "Data Analyst"
 
 GIT repo uploads started on the 1st of January 2021 to track and document progress there.
 
-Project Finish data is planned for 1st week of January 2021.
+Project Finish date is planned for 1st week of January 2021.
 
 ### Investigate a Dataset
 The Project aims to analyze the information
