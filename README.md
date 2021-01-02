@@ -16,15 +16,21 @@ We provide statistical data and visualizations in order to answer several questi
 
 #Question 1
 
-    TBD
+    Analyze trends in movie industry, over the years:
+        - Movies released
+        - Movies popularity
+        - Movies profit
 
 #Question 2
 
-    TBD
+    Analyze Genres Popularity.
+
+        - Which genre has the most films released, ever?
+        - Which genres are the most popular movies for the last 5 years?
 
 #Question 3
 
-    TBD
+    TBC
 
 #Question 4
 
