@@ -30,11 +30,11 @@ We provide statistical data and visualizations in order to answer several questi
 
 #Question 3
 
-    TBC
-
-#Question 4
-
-    TBD
+    Analyze Profitable Movies
+        - Finding the average runtime
+        - Finding the most common genres, actors, directors
+        - Finding the mean budget
+        of the most profitable movies in the database.
 
 ### Files used
 We have used one CSV database file provided from Udacity:
